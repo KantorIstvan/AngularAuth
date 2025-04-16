@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Environment variables and secrets
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Optional npm cache & logs
+.npm
+.npmrc

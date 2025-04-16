@@ -1,0 +1,32 @@
+# Angular build files
+dist/
+.angular/
+
+# Dependency directories
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Test files
+/coverage
+
+# Optional npm cache & logs
+.npm
+.npmrc

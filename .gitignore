@@ -1,0 +1,19 @@
+# Environment files with sensitive data
+.env
+.env.*
+*.env
+
+# Node modules
+node_modules/
+
+# Docker environment files
+docker-compose.override.yml
+
+# Build files
+dist/
+build/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
